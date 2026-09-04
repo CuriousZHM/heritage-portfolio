@@ -1,0 +1,12 @@
+{
+  "b0001": {"index": {"category": "背景", "summary": "虚构测试样例，期限2026-2036。"}, "extract": {"entities": []}},
+  "b0002": {"index": {"category": "章节标题", "summary": "保护对象章节。"}, "extract": {"entities": []}},
+  "b0003": {"index": {"category": "建筑名单", "summary": "两处虚构历史建筑。"}, "extract": {"entities": [
+    {"name": "示例书院", "category": "历史建筑", "evidence": "| 示例书院 | 历史建筑 |"},
+    {"name": "示例会馆", "category": "历史建筑", "evidence": "| 示例会馆 | 历史建筑 |"}
+  ]}},
+  "b0004": {"index": {"category": "街区名单", "summary": "一处虚构历史街区。"}, "extract": {"entities": [
+    {"name": "示例南街", "category": "历史街区", "evidence": "本样例列出示例南街作为历史街区保护对象。"}
+  ]}},
+  "b0005": {"index": {"category": "一般要求", "summary": "无具体实体。"}, "extract": {"entities": []}}
+}

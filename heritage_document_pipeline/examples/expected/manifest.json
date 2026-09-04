@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "backend": "fixture-demo",
+  "source_file": "synthetic_plan.md",
+  "source_sha256": "52baeb0af681e02c5dfb12f99aebed1419feb63084f42d4bd6589ec884eba67d",
+  "block_count": 5,
+  "entity_count": 3,
+  "city": "示例城",
+  "planning_period": "2026-2036",
+  "model": null,
+  "performance_claim": null,
+  "human_review_required": true,
+  "notice": "Fixture responses validate plumbing only, not model accuracy."
+}

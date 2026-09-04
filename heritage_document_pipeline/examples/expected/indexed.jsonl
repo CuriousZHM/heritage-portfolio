@@ -1,0 +1,5 @@
+{"block_id": "b0001", "chapter": "", "title": "Preamble", "line_start": 1, "line_end": 5, "text": "# 示例城历史文化保护规划（合成样例）\n\n本文件由本次工程整理创建，仅用于软件测试。城市、建筑和街区均为虚构，不是法规或真实审批材料。\n规划期限：2026-2036。", "analysis": {"category": "背景", "summary": "虚构测试样例，期限2026-2036。"}}
+{"block_id": "b0002", "chapter": "第一章 保护对象", "title": "第一章 保护对象", "line_start": 6, "line_end": 7, "text": "## 第一章 保护对象", "analysis": {"category": "章节标题", "summary": "保护对象章节。"}}
+{"block_id": "b0003", "chapter": "第一章 保护对象", "title": "第一条 历史建筑名录", "line_start": 8, "line_end": 14, "text": "### 第一条 历史建筑名录\n\n| 名称 | 类型 |\n| --- | --- |\n| 示例书院 | 历史建筑 |\n| 示例会馆 | 历史建筑 |", "analysis": {"category": "建筑名单", "summary": "两处虚构历史建筑。"}}
+{"block_id": "b0004", "chapter": "第一章 保护对象", "title": "第二条 历史街区", "line_start": 15, "line_end": 18, "text": "### 第二条 历史街区\n\n本样例列出示例南街作为历史街区保护对象。", "analysis": {"category": "街区名单", "summary": "一处虚构历史街区。"}}
+{"block_id": "b0005", "chapter": "第一章 保护对象", "title": "第三条 一般要求", "line_start": 19, "line_end": 21, "text": "### 第三条 一般要求\n\n保护传统风貌，完善管理记录。此条没有列出新的具体保护对象。", "analysis": {"category": "一般要求", "summary": "无具体实体。"}}
